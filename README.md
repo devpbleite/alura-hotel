@@ -4,7 +4,7 @@
 <a href="https://discord.com/channels/@PabloL#3331" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 <img align="right" src="https://github.com/devpbleite/money-exchange-ONE/blob/main/assets/badge.png" width="18%">
 
-# Challenge ONE - #challengeonedeconversor4
+# Alura Hotel - #challengeonedeconversor4
 
  -  O challenge em questão se baseaia na construção de uma aplicação de conversão de moedas.
 
