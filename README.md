@@ -38,11 +38,13 @@ Lembrando que deve ser possível também converter de forma inversa ou seja:
 
 ## Tecnologias Utilizadas:
 -	Java
--	Swing
+-	MySql
+- Biblioteca JCalendar
+- Plugin WindowBuilder
 - Git e Github
 ___
 
 ## 📌 Resultado do Projeto: 
 
-<img align="center" src="https://github.com/devpbleite/money-exchange-ONE/blob/main/assets/badge.png">
+<img align="center" src="https://github.com/devpbleite/alura-hotel/blob/main/src/imagenes/Capturar.PNG">
 
