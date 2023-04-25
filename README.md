@@ -15,26 +15,13 @@ ___
 
 ## Requisitos:
 
- O conversor de moeda deverá:
- 
-     - Converter de Reais a Dólar
-     - Converter de Reais a Euro
-     - Converter de Reais a Libras Esterlinas
-     - Converter de Reais a Peso argentino
-     - Converter de Reais a Peso Chileno
-     
-Lembrando que deve ser possível também converter de forma inversa ou seja:
+  - Sistema de autenticação de usuários para que somente usuários pertencentes ao hotel possam acessar o sistema;
+  - Permitir criar, editar e excluir uma reserva para clientes;
+  - Pesquisar na base de dados toda a informação de clientes e reservas;
+  - Registrar, editar e excluir os dados dos hóspedes;
+  - Calcule o valor da reserva com base no número de dias da reserva e uma taxa diária com o valor atribuído por você na moeda Real;
+  - Banco de dados para armazenar todos os dados solicitados anteriormente.   
 
-       - Converter de Dólar a Reais
-       - Converter de Euro a Reais
-       - Converter de Libras Esterlinas a Reais
-       - Converter de Peso argentino a  Reais
-       - Converter de Peso Chileno a Reais     
-
-## Extras: Em construção.
-
- - Adicionar a aplicação um conversor de temperaturas.
- - Consumir API externa para fazer conversões em tempo real.
 
 ## Tecnologias Utilizadas:
 -	Java
