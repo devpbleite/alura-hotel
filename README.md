@@ -13,7 +13,7 @@ ___
 
   - O projeto tem o objetivo de ser um sistema de reservas para um hotel. Para realizar a reserva e buscar informações sobre, o projeto é um CRUD no Java, tendo como armazenamento o MySQL.
 
-## Requisitos:
+## Principais características do projeto:
 
   - Sistema de autenticação de usuários para que somente usuários pertencentes ao hotel possam acessar o sistema;
   - Permitir criar, editar e excluir uma reserva para clientes;
