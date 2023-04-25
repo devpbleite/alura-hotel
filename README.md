@@ -1,45 +1,26 @@
-# Oracle + Alura 💻🤟  <img align="right" src="https://cursos.alura.com.br/assets/images/certificates/new/logo/oracle-one-logo.png"><br><br>
-<a href="https://www.linkedin.com/in/pabloleite03/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto:devpbleite@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://discord.com/channels/@PabloL#3331" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
-<img align="right" src="https://github.com/devpbleite/money-exchange-ONE/blob/main/assets/badge.png" width="18%">
+# Challenge ONE | Java | Back-end | Hotel Alura
 
-# Alura Hotel - #challengeonedeconversor4
+<p align="center" >
+     <img width="400" heigth="400" src="https://user-images.githubusercontent.com/101413385/173164615-192ca98a-1a44-480e-9229-9f82f456eec8.png">
 
- -  O challenge em questão se baseaia na construção de uma aplicação de conversão de moedas.
+</p>
 
-## Sobre o Projeto:
-___
+## 🖥️ Tecnologias Utilizadas:
 
-  - A aplicação foi desenvolvida utilizando a linguagem Java e a biblioteca Swing para a criação de telas simples.
+- Java
+- Eclipse
+- MySql
+- Biblioteca JCalendar
+- Plugin WindowBuilder </br>
 
-## Requisitos:
+---
 
- O conversor de moeda deverá:
- 
-     - Converter de Reais a Dólar
-     - Converter de Reais a Euro
-     - Converter de Reais a Libras Esterlinas
-     - Converter de Reais a Peso argentino
-     - Converter de Reais a Peso Chileno
-     
-Lembrando que deve ser possível também converter de forma inversa ou seja:
+- Projeto feito para o desafio Hotel Alura, do programa Oracle ONE. Consiste em um aplicativo desktop com capacidade de se conectar a uma banco de dados MySQL para o gerenciamento de um sistema simples de hotel.
 
-       - Converter de Dólar a Reais
-       - Converter de Euro a Reais
-       - Converter de Libras Esterlinas a Reais
-       - Converter de Peso argentino a  Reais
-       - Converter de Peso Chileno a Reais     
+🧡 <strong>Oracle</strong></br>
+<a href="https://www.linkedin.com/company/oracle/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-## Extras: Em construção.
-
- - Adicionar a aplicação um conversor de temperaturas.
- - Consumir API externa para fazer conversões em tempo real.
-
-## Tecnologias Utilizadas:
--	Java
--	Swing
-- Git e Github
-___
-
-## 📌 Resultado do Projeto:
+💙 <strong>Alura Latam</strong></br>
+<a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
