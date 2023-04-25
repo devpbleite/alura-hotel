@@ -6,12 +6,12 @@
 
 # Alura Hotel - #challengeonedeconversor4
 
- -  O challenge em questão se baseaia na construção de uma aplicação de conversão de moedas.
+ 
 
 ## Sobre o Projeto:
 ___
 
-  - A aplicação foi desenvolvida utilizando a linguagem Java e a biblioteca Swing para a criação de telas simples.
+  - O projeto tem o objetivo de ser um sistema de reservas para um hotel. Para realizar a reserva e buscar informações sobre, o projeto é um CRUD no Java, tendo como armazenamento o MySQL.
 
 ## Requisitos:
 
